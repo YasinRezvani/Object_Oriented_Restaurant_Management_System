@@ -17,3 +17,23 @@ public class Drink {
         this.name = name;
         this.price = price;
     }
+    public Type getType() {
+        return type;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public static int getTotalSales() {
+        return totalSales;
+    }
+
+    public static void incrementTotalSales() {
+        totalSales++;
+    }
+}
