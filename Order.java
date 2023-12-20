@@ -49,4 +49,20 @@ public class Order {
 
         return total;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder orderDetails = new StringBuilder();
+        orderDetails.append("\nOrdered Foods:\n");
+        for (Food food : foods) {
+            orderDetails.append("- ").append(food.getName()).append("\n");
+        }
+
+        orderDetails.append("Ordered Drinks:\n");
+        for (Drink drink : drinks) {
+            orderDetails.append("- ").append(drink.getName()).append("\n");
+        }
+
+        return orderDetails.toString();
+    }
 }
