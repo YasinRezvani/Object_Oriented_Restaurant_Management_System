@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Order {
+    // Define list for any food class
     private List<Food> foods;
     private List<Drink> drinks;
 
@@ -11,13 +12,14 @@ public class Order {
         this.foods = new ArrayList<>();
         this.drinks = new ArrayList<>();
     }
-
+    // Add any place order to food or drink class list
     public Order(Food food, Drink drink) {
         this();
         addFood(food);
         addDrink(drink);
     }
 
+    // Define getter and Setter
     public void addFood(Food food) {
         foods.add(food);
     }
@@ -33,7 +35,8 @@ public class Order {
     public List<Drink> getDrinks() {
         return drinks;
     }
-    
+
+    // Give main class total prices selling for view to customer
     public double getPrice() {
         double total = 0;
 
@@ -49,7 +52,7 @@ public class Order {
 
         return total;
     }
-
+    // We need to override tostring() method because for write customer's order to save in file
     @Override
     public String toString() {
         StringBuilder orderDetails = new StringBuilder();
