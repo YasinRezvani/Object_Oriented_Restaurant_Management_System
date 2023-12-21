@@ -1,6 +1,7 @@
 package restaurant;
 
 public class Food {
+    // Define enum for type and mealtime to choose easily
     public enum Type {
         FAST_FOOD,
         IRANIAN_FOOD,
@@ -12,13 +13,14 @@ public class Food {
         LUNCH,
         DINNER
     }
-
+    // Determin field of food class 
     private Type type;
     private String name;
     private double price;
     private MealTime mealTime;
     private static int totalSales;
 
+    // Define constructor
     public Food(Type type, String name, double price, MealTime mealTime) {
         this.type = type;
         this.name = name;
@@ -26,7 +28,8 @@ public class Food {
         this.mealTime = mealTime;
     }
 
-        public Type getType() {
+    // Getters and setters for private fields
+    public Type getType() {
         return type;
     }
 
