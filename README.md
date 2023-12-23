@@ -1,5 +1,5 @@
 # Object_Oriented_Restaurant_Management_System
-The simple CLI Object Oriented Restaurant Management System in Java
+The simple CLI Object-Oriented Restaurant Management System in Java
 # Demo :tada:
 ![Rec-0012-_online-video-cutter com_](https://github.com/YasinRezvani/Object_Oriented_Restaurant_Management_System/assets/77124662/5b6787ea-17e7-4d68-9ab7-df73c18a38e5)
 ![receipt](https://github.com/YasinRezvani/Object_Oriented_Restaurant_Management_System/assets/77124662/f9cc3be1-1418-494a-abcc-26175edd4c14)
