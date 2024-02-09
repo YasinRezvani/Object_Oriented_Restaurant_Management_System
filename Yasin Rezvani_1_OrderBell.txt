@@ -1,0 +1,21 @@
+Customer: Yasin Rezvani
+
+
+Order Details: 
+------------------------------
+
+
+Ordered Foods:
+
+- Pizza
+
+Ordered Drinks:
+
+- Iranian-tea
+
+
+------------------------------
+Total Price: 38.0
+Date and Time: 2023-12-22T17:39:08.822400
+
+
