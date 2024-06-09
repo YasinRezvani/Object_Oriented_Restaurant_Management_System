@@ -18,8 +18,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("-------------------------------------------------------------------------------------------------------------\n");
         System.out.println("             ******* Welcome to Object Oriented Restaurant Management System Project *******\n");
-        System.out.println("                                       Supervisor: Ms.Bahareh Javid");
-        System.out.println("                                       Teacher Assistants: Mr.Behnam Saghari - Ms.Asal Salmani ");
+        System.out.println("                                       Supervisor: Ms. Bahareh Javid");
+        System.out.println("                                       Teacher Assistants: Mr. Behnam Saghari, Ms. Asal Salmani ");
         System.out.println("                                       Course: Advanced programming");
         System.out.println("                                       Student: Yasin Rezvani ");
         System.out.println("                                       Date: Fall 2023 \n");
