@@ -1,5 +1,9 @@
 # Object_Oriented_Restaurant_Management_System
-The simple CLI Object-Oriented Restaurant Management System in Java
+- Supervisor: Dr. Bahareh Javid <br>
+- Teaching Assistants: Mr. Behnam Saghari, Ms. Asal Salmani <br>
+- Course: Advanced Programming <br>
+
+A comprehensive object-oriented solution for restaurant operations management, developed in Java. The system implements core OOP principles including encapsulation, inheritance, and polymorphism through four main modules: menu management, customer handling, order processing, and financial accounting. Features include dynamic menu modification (food/drink CRUD operations), customer relationship management (CRM), and automated receipt generation.
 # Demo :tada:
 https://github.com/YasinRezvani/Object_Oriented_Restaurant_Management_System/assets/77124662/89be38d3-653d-4222-9e17-a9b4efe52302
 ## :fire: Yasin Rezvani_Receipt.txt :fire:
