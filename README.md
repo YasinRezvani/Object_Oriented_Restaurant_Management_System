@@ -1,7 +1,8 @@
 # Object_Oriented_Restaurant_Management_System
-- Supervisor: Dr. Bahareh Javid <br>
-- Teaching Assistants: Mr. Behnam Saghari, Ms. Asal Salmani <br>
-- Course: Advanced Programming <br>
+- **Supervisor:** [Dr. Bahareh Javid](https://orcid.org/0000-0001-8584-463X) <br>
+- **Teaching Assistants:** Mr. Behnam Saghari, Ms. Asal Salmani <br>
+- **Course:** Advanced Programming <br>
+- **Organization:** [Shahrood University of Technology](https://www.shahroodut.ac.ir/en/) <br>
 
 A comprehensive object-oriented solution for restaurant operations management, developed in Java. The system implements core OOP principles including encapsulation, inheritance, and polymorphism through four main modules: menu management, customer handling, order processing, and financial accounting. Features include dynamic menu modification (food/drink CRUD operations), customer relationship management (CRM), and automated receipt generation.
 # Demo :tada:
